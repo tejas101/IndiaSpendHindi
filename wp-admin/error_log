@@ -1,0 +1,17 @@
+[04-Mar-2015 10:56:51 UTC] PHP Warning:  Division by zero in /home/boomlive/public_html/indiaspendhindi.com/wp-content/plugins/easy-mailchimp-forms-by-marketingv8/class.emfwmc_list_table.php on line 108
+[04-Mar-2015 10:58:22 UTC] PHP Warning:  Division by zero in /home/boomlive/public_html/indiaspendhindi.com/wp-content/plugins/easy-mailchimp-forms-by-marketingv8/class.emfwmc_list_table.php on line 108
+[04-Mar-2015 10:59:59 UTC] PHP Warning:  Division by zero in /home/boomlive/public_html/indiaspendhindi.com/wp-content/plugins/easy-mailchimp-forms-by-marketingv8/class.emfwmc_list_table.php on line 108
+[04-Mar-2015 11:05:43 UTC] PHP Warning:  Division by zero in /home/boomlive/public_html/indiaspendhindi.com/wp-content/plugins/easy-mailchimp-forms-by-marketingv8/class.emfwmc_list_table.php on line 108
+[04-Mar-2015 11:06:04 UTC] PHP Warning:  Division by zero in /home/boomlive/public_html/indiaspendhindi.com/wp-content/plugins/easy-mailchimp-forms-by-marketingv8/class.emfwmc_list_table.php on line 108
+[04-Mar-2015 12:17:56 UTC] PHP Warning:  Division by zero in /home/boomlive/public_html/indiaspendhindi.com/wp-content/plugins/easy-mailchimp-forms-by-marketingv8/class.emfwmc_list_table.php on line 108
+[09-Mar-2015 13:13:54 UTC] PHP Fatal error:  Cannot redeclare bac_PostViews() (previously declared in /home/boomlive/public_html/indiaspendhindi.com/wp-content/plugins/wptouch-pro-3/themes/foundation/root-functions.php:1178) in /home/boomlive/public_html/indiaspendhindi.com/wp-content/themes/advanced-newspaper/functions.php on line 144
+[09-Mar-2015 13:13:54 UTC] PHP Fatal error:  Cannot redeclare bac_PostViews() (previously declared in /home/boomlive/public_html/indiaspendhindi.com/wp-content/plugins/wptouch-pro-3/themes/foundation/root-functions.php:1178) in /home/boomlive/public_html/indiaspendhindi.com/wp-content/themes/advanced-newspaper/functions.php on line 144
+[10-Mar-2015 09:09:51 UTC] PHP Warning:  Division by zero in /home/boomlive/public_html/indiaspendhindi.com/wp-content/plugins/easy-mailchimp-forms-by-marketingv8/class.emfwmc_list_table.php on line 108
+[10-Mar-2015 09:12:30 UTC] PHP Warning:  Division by zero in /home/boomlive/public_html/indiaspendhindi.com/wp-content/plugins/easy-mailchimp-forms-by-marketingv8/class.emfwmc_list_table.php on line 108
+[17-Mar-2015 07:24:09 UTC] WordPress database error Lost connection to MySQL server during query for query 
+		SELECT ID
+		FROM wp_posts
+		WHERE post_type = 'attachment'
+		AND post_mime_type LIKE 'audio%'
+		LIMIT 1
+	 made by include('wp-admin/edit-form-advanced.php'), wp_enqueue_media
